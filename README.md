@@ -1,5 +1,5 @@
 <body>
-<h1 align="center"> 🤘 ![image](https://user-images.githubusercontent.com/88987265/144890443-b501b4bd-5eb7-420b-a441-1ff1579a6af8.png)
+<h1 align="center"> 🤘 <img src="https://user-images.githubusercontent.com/88987265/144890443-b501b4bd-5eb7-420b-a441-1ff1579a6af8.png">
  🤘 ~</h1>
 <br>
 <div align="center">
@@ -23,7 +23,7 @@
 <br>
 </div>
 <div>
-<h2 align="left">            ![image](https://user-images.githubusercontent.com/88987265/144891945-2e70c68b-48c8-4520-9329-c835c97f849b.png)</h2>
+<h2 align="left">            <img src="(https://user-images.githubusercontent.com/88987265/144891945-2e70c68b-48c8-4520-9329-c835c97f849b.png)"></h2>
 <p>
 <img src="https://static.wikia.nocookie.net/powerlisting/images/f/f3/Sonic_Breakdancing.gif/revision/latest?cb=20210913002932" align="right">
 </div>
@@ -33,7 +33,7 @@
 I may know these languages but I'm still learning to become a great video game and/or Web Developer. I'm a quick learner and a Jack of All trades, may not be a master of one but a master of none is better than a master of one. Plus I'm always willing to work on projects out of my comfort zone to learn something new. Can never know too many skills and I'm always ready to jump into a project.
 </p>
 <br>
-<h2>           ![image](https://user-images.githubusercontent.com/88987265/144895967-e0382fcb-7937-4f87-b6f4-bbad57d7059b.png)
+<h2>           <img src="https://user-images.githubusercontent.com/88987265/144895967-e0382fcb-7937-4f87-b6f4-bbad57d7059b.png">
 </h2>
 <img src="https://64.media.tumblr.com/8ec33682c3e31213f8f33fc0108c9687/e8ad81ceabf4f7ad-ba/s400x600/09a0e1ea5a617cc704d69dbde802d8e1d63a7acb.gifv" align="right" width="373.5px" height="208.5px">
 <br>
@@ -44,7 +44,7 @@ Social Media:</p>
 </div>
 <br>
 <div>
-<h2 align="center">![image](https://user-images.githubusercontent.com/88987265/144901947-de4e9b57-0ee4-43eb-aa76-a899b972689f.png)
+<h2 align="center"><img src="https://user-images.githubusercontent.com/88987265/144901947-de4e9b57-0ee4-43eb-aa76-a899b972689f.png"
 </h2>
 <div align="center">
 <img src="https://c.tenor.com/1NuRXo1ut_QAAAAC/csgo-walking.gif">
