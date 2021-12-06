@@ -7,11 +7,11 @@
 <br>
 <div>
 <h2 align="center"> <img src="https://user-images.githubusercontent.com/88987265/144890340-1e0cb5e1-f8a1-49e0-8844-e68b54ff7e6d.png"> </h2>
-<img src="https://64.media.tumblr.com/e6a90e883214e4bb8c61bb27d3f4189f/3cc12be5ff2d1d06-ea/s400x600/b33b10de13fce1910af358a7011a17a4841ee6ca.gifv" align="right" width="200.5px" height="300.5px">
+<img src="https://64.media.tumblr.com/e6a90e883214e4bb8c61bb27d3f4189f/3cc12be5ff2d1d06-ea/s400x600/b33b10de13fce1910af358a7011a17a4841ee6ca.gifv" align="right" width="150.5px" height="250.5px">
 <li>
 <b>Name:</b> Christian</li>
 <li>
-<b>Loves:</b> Gaming 🎮, Auto Racing 🏎️, Skateboarding 🛹, Building things from Scratch 🔧, and Metal!!! 🤘
+<b>Likes:</b> Gaming 🎮, Auto Racing 🏎️, Skateboarding 🛹, Building things from Scratch 🔧, Anime 🤖, and Metal!!! 🤘
 </li>
 <li>
 <b>Hobbys:</b> Mechanic Work, Reverse Engineering, Web Development
@@ -19,12 +19,16 @@
 <li>
 <b>Study @:</b> 4Geeks | Full Stack Web Development
 </li>
+<li>
+<b>Pets:</b> Senior Shorthair Taby Cat & Adult Dachshund
+</li>
+<h4>Extremely excited to start developing my own projects and ideas. Really excited to share them with you all while also getting some great feedback on how I can make my projects better.</h4>
 <br>
 </div>
 <div>
 <h2 align="left">            <img src="https://user-images.githubusercontent.com/88987265/144891945-2e70c68b-48c8-4520-9329-c835c97f849b.png"></h2>
 <p>
-<img src="https://static.wikia.nocookie.net/powerlisting/images/f/f3/Sonic_Breakdancing.gif/revision/latest?cb=20210913002932" align="right">
+<img src="https://static.wikia.nocookie.net/powerlisting/images/f/f3/Sonic_Breakdancing.gif/revision/latest?cb=20210913002932" align="right" width="25%">
 </div>
 <div>
 <p align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
