@@ -7,7 +7,7 @@
 <br>
 <div>
 <h2 align="center"> <img src="https://user-images.githubusercontent.com/88987265/144890340-1e0cb5e1-f8a1-49e0-8844-e68b54ff7e6d.png"> </h2>
-<img src="https://64.media.tumblr.com/e6a90e883214e4bb8c61bb27d3f4189f/3cc12be5ff2d1d06-ea/s400x600/b33b10de13fce1910af358a7011a17a4841ee6ca.gifv" align="right width="150.5px" height="200px">
+<img src="https://c.tenor.com/tmiXqjjjhcMAAAAC/doom.gif" align="right width="150.5px" height="200px">
 <li>
 <b>Name:</b> Christian</li>
 <li>
@@ -34,7 +34,7 @@ I may know these languages but I'm still learning to become a great video game a
 <br>
 <h2>           <img src="https://user-images.githubusercontent.com/88987265/144895967-e0382fcb-7937-4f87-b6f4-bbad57d7059b.png">
 </h2>
-<img src="https://64.media.tumblr.com/8ec33682c3e31213f8f33fc0108c9687/e8ad81ceabf4f7ad-ba/s400x600/09a0e1ea5a617cc704d69dbde802d8e1d63a7acb.gifv" align="right" width="373.5px" height="208.5px">
+<img src="https://c.tenor.com/LqJ0DYERcn4AAAAC/resident-evil-re7.gif" align="right" width="373.5px" height="208.5px">
 <br>
 <p align="center">Great ways to get in contact with me. 📱 <br>
 Social Media:</p>
