@@ -7,7 +7,7 @@
 <br>
 <div>
 <h2 align="center"> <img src="https://user-images.githubusercontent.com/88987265/144890340-1e0cb5e1-f8a1-49e0-8844-e68b54ff7e6d.png"> </h2>
-<img src="https://64.media.tumblr.com/e6a90e883214e4bb8c61bb27d3f4189f/3cc12be5ff2d1d06-ea/s400x600/b33b10de13fce1910af358a7011a17a4841ee6ca.gifv" align="right width="150.5px" height="200px">
+<img src="https://64.media.tumblr.com/e6a90e883214e4bb8c61bb27d3f4189f/3cc12be5ff2d1d06-ea/s400x600/b33b10de13fce1910af358a7011a17a4841ee6ca.gifv" align="right width="200.5px" height="400px">
 <li>
 <b>Name:</b> Christian</li>
 <li>
@@ -28,7 +28,7 @@
 </div>
 <div>
 <p align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src"https://camo.githubusercontent.com/35ed2859d7e03b4695a17eedefe6c45c9120136860786d5475d0cf6f55d8c4f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742532302d2532333030443946462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465"> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="(https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)"> <br><br>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src"https://camo.githubusercontent.com/35ed2859d7e03b4695a17eedefe6c45c9120136860786d5475d0cf6f55d8c4f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742532302d2532333030443946462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465"> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <br><br>
 I may know these languages but I'm still learning to become a great video game and/or Web Developer. I'm a quick learner and a Jack of All trades, may not be a master of one but a master of none is better than a master of one. Plus I'm always willing to work on projects out of my comfort zone to learn something new. Can never know too many skills and I'm always ready to jump into a project.
 </p>
 <br>
