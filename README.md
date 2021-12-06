@@ -7,7 +7,7 @@
 <br>
 <div>
 <h2 align="center"> <img src="https://user-images.githubusercontent.com/88987265/144890340-1e0cb5e1-f8a1-49e0-8844-e68b54ff7e6d.png"> </h2>
-<img src="https://64.media.tumblr.com/e6a90e883214e4bb8c61bb27d3f4189f/3cc12be5ff2d1d06-ea/s400x600/b33b10de13fce1910af358a7011a17a4841ee6ca.gifv" align="right" width="200.5px" height="400px">
+<img src="https://64.media.tumblr.com/e6a90e883214e4bb8c61bb27d3f4189f/3cc12be5ff2d1d06-ea/s400x600/b33b10de13fce1910af358a7011a17a4841ee6ca.gifv" align="right" width="200.5px" height="300.5px">
 <li>
 <b>Name:</b> Christian</li>
 <li>
@@ -17,7 +17,7 @@
 <b>Hobbys:</b> Mechanic Work, Reverse Engineering, Web Development
 </li>
 <li>
-<b>Working @:</b> Chewy | 
+<b>Study @:</b> 4Geeks | Full Stack Web Development
 </li>
 <br>
 </div>
