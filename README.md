@@ -1,6 +1,5 @@
 <body>
-<h1 align="center"> 🤘 <img src="https://user-images.githubusercontent.com/88987265/144890443-b501b4bd-5eb7-420b-a441-1ff1579a6af8.png">
- 🤘 ~</h1>
+<h1 align="center"> 🤘<img src="https://user-images.githubusercontent.com/88987265/144890443-b501b4bd-5eb7-420b-a441-1ff1579a6af8.png">🤘</h1>
 <br>
 <div align="center">
 <img src="https://i.gifer.com/U4Bc.gif">
@@ -8,7 +7,7 @@
 <br>
 <div>
 <h2 align="center"> <img src="https://user-images.githubusercontent.com/88987265/144890340-1e0cb5e1-f8a1-49e0-8844-e68b54ff7e6d.png"> </h2>
-<img src="https://64.media.tumblr.com/e6a90e883214e4bb8c61bb27d3f4189f/3cc12be5ff2d1d06-ea/s400x600/b33b10de13fce1910af358a7011a17a4841ee6ca.gifv" align="right">
+<img src="https://64.media.tumblr.com/e6a90e883214e4bb8c61bb27d3f4189f/3cc12be5ff2d1d06-ea/s400x600/b33b10de13fce1910af358a7011a17a4841ee6ca.gifv" align="right width="150.5px" height="200px">
 <li>
 <b>Name:</b> Christian</li>
 <li>
@@ -23,7 +22,7 @@
 <br>
 </div>
 <div>
-<h2 align="left">            <img src="(https://user-images.githubusercontent.com/88987265/144891945-2e70c68b-48c8-4520-9329-c835c97f849b.png)"></h2>
+<h2 align="left">            <img src="https://user-images.githubusercontent.com/88987265/144891945-2e70c68b-48c8-4520-9329-c835c97f849b.png"></h2>
 <p>
 <img src="https://static.wikia.nocookie.net/powerlisting/images/f/f3/Sonic_Breakdancing.gif/revision/latest?cb=20210913002932" align="right">
 </div>
@@ -40,7 +39,7 @@ I may know these languages but I'm still learning to become a great video game a
 <p align="center">Great ways to get in contact with me. 📱 <br>
 Social Media:</p>
 <p align="center"><a href="https://www.linkedin.com/in/christian-luperon-907927220/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
-<p align="center"><a href="https://www.twitch.tv/oglupey" target="_blank"><img src="https://img.shields.io/badge/<handle>-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a> <a href="https://twitter.com/OGLupey" target="_blank"><img src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
+<p align="center"><a href="https://www.twitch.tv/oglupey" target="_blank"><img src="https://img.shields.io/badge/OGLupey-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a> <a href="https://twitter.com/OGLupey" target="_blank"><img src="https://img.shields.io/badge/Lupey-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
