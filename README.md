@@ -23,7 +23,7 @@ I am a Full Stack Developer <img src="https://media2.giphy.com/media/EauwThrXwq0
 - 💻 I'm working as a Lead Developer at Alternative Funding
 - 📖 Learning new programming languages and libraries to hone my skills as a software developer
 - 🎮 With my spare time I like to play video games, skateboard, play drums and guitar, and work on personal projects.
-- 🐈 I have 3 rescued cats named ⚔️ Xena (Short Hair Tabby), 👑 Duchess (Tuxedo), 👔 Oskar (Bombay), and most recently just rescued a baby Kitten from the street 😈 Luci (Bombay)!!
+- 🐈 I have 4 rescued cats named ⚔️ Xena (Short Hair Tabby), 👑 Duchess (Tuxedo), 👔 Oskar (Bombay), and 😈 Luci (Bombay)!!
 
 ---
 
