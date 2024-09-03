@@ -58,4 +58,5 @@ I am a Full Stack Developer <img src="https://media2.giphy.com/media/EauwThrXwq0
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lupey1103&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lupey1103&layout=donut&hide=python&theme=radical)
 
