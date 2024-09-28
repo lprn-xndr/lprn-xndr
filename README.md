@@ -11,6 +11,7 @@
 I'm Chris, a 30 year old software developer from the United States.
 
 ## Professional Experiance
+</div>
 
 - 💻 Lead Developer for [Alternative Funding](https://altfunding.com) - Present
 
@@ -19,7 +20,8 @@ I'm Chris, a 30 year old software developer from the United States.
 - 👨🏾‍🏫 Teachers Assistant for [4Geeks Academy](4geeksacademy.com) - 2021-2023
 
 * Building personal projects. 👍🏾
-
+<div align="center">
+    
 ## Skills
 
 ### Front End
