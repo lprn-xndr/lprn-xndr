@@ -1,0 +1,124 @@
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes breathingGlow {
+          0% {
+            text-shadow: 0 0 10px #4B0082, 0 0 20px #4B0082, 0 0 30px #4B0082, 0 0 40px #4B0082, 0 0 50px #4B0082;
+          }
+          50% {
+            text-shadow: 0 0 20px #4B0082, 0 0 40px #4B0082, 0 0 60px #4B0082, 0 0 80px #4B0082, 0 0 100px #4B0082;
+          }
+          100% {
+            text-shadow: 0 0 10px #4B0082, 0 0 20px #4B0082, 0 0 30px #4B0082, 0 0 40px #4B0082, 0 0 50px #4B0082;
+          }
+        }
+
+        h1 {
+          font-family: 'Inter',
+            -apple-system,
+            BlinkMacSystemFont, 
+            'Segoe UI', 
+            'Roboto', 
+            'Oxygen', 
+            'Ubuntu', 
+            'Cantarell', 
+            'Fira Sans', 
+            'Droid Sans', 
+            'Helvetica Neue', 
+            sans-serif;
+          margin: 0;
+          font-size: 4em;
+          font-weight: 900;
+          letter-spacing: -.05em;
+          text-align: center;
+          color: #ffffff; /* White color for the text */
+          animation: breathingGlow 1.5s ease-in-out infinite; /* Faster breathing glow effect */
+        }
+
+        @keyframes gears-fall {
+          0% {
+            top: -10%;
+            opacity: 1;
+          }
+          100% {
+            top: 110%;
+            opacity: 0;
+          }
+        }
+
+        .gear {
+          color: #ffffff; /* Solid color for gears */
+          font-size: 1.5em;
+          font-family: Arial;
+          position: fixed;
+          top: -10%;
+          z-index: 9999;
+          user-select: none;
+          cursor: default;
+          animation-name: gears-fall;
+          animation-timing-function: linear;
+          animation-iteration-count: infinite;
+          animation-play-state: running;
+        }
+
+        .gear:nth-of-type(1) {
+          left: 5%;
+          animation-duration: 2s;
+          animation-delay: 0s;
+        }
+        .gear:nth-of-type(2) {
+          left: 15%;
+          animation-duration: 3s;
+          animation-delay: 0.5s;
+        }
+        .gear:nth-of-type(3) {
+          left: 25%;
+          animation-duration: 1.8s;
+          animation-delay: 1s;
+        }
+        .gear:nth-of-type(4) {
+          left: 35%;
+          animation-duration: 2.5s;
+          animation-delay: 1.5s;
+        }
+        .gear:nth-of-type(5) {
+          left: 45%;
+          animation-duration: 2.2s;
+          animation-delay: 2s;
+        }
+        .gear:nth-of-type(6) {
+          left: 55%;
+          animation-duration: 2.7s;
+          animation-delay: 2.5s;
+        }
+        .gear:nth-of-type(7) {
+          left: 65%;
+          animation-duration: 2s;
+          animation-delay: 3s;
+        }
+        .gear:nth-of-type(8) {
+          left: 75%;
+          animation-duration: 3s;
+          animation-delay: 3.5s;
+        }
+        .gear:nth-of-type(9) {
+          left: 85%;
+          animation-duration: 1.9s;
+          animation-delay: 4s;
+        }
+      </style>
+      <h1>Christian Luperon</h1>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="gear">🔧</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="gear">⚙️</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="gear">🔧</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="gear">⚙️</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="gear">🔧</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="gear">⚙️</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="gear">🔧</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="gear">⚙️</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="gear">🔧</div>
+      
+    </div>
+  </foreignObject>
+</svg>

@@ -1,62 +1,80 @@
-<div id="header" align="center">
- <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100" />
- <div id="badges" align="center">
- <a href="https://www.linkedin.com/in/christian-luperon/">
- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
- </a>
- </div>
- <img src="https://komarev.com/ghpvc/?username=Lupey1103&style=flat-square&color=blue" alt=""/>
- <h1>
-  Welcome
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">
+    <image src="./name.svg" alt="Christian Luperon" />
 </h1>
- </div>
- <div align="center">
-  <img src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47be8dg8tydr28a0d8rar59sntb3hafyiuw554tvfa&rid=giphy.gif&ct=g" width="600" height="300" />
- </div>
-
-----
-
-### :feelsgood: About Me : 
-I am a Full Stack Developer <img src="https://media2.giphy.com/media/EauwThrXwq0EWngOcT/giphy.gif?cid=ecf05e47v40kai09wiyujmzjk2ipqoz41kn2eax75q8cod4p&rid=giphy.gif&ct=s" width="30"> from Miami, FL.
-
-- 💻 I'm working as a Lead Developer at Alternative Funding
-- 📖 Learning new programming languages and libraries to hone my skills as a software developer
-- 🎮 With my spare time I like to play video games, skateboard, play drums and guitar, and work on personal projects.
-- 🐈 I have 4 rescued cats named ⚔️ Xena (Short Hair Tabby), 👑 Duchess (Tuxedo), 👔 Oskar (Bombay), and 😈 Luci (Bombay)!!
-
----
-
-### 🔧 Languages and Tools :
 
 <div align="center">
-<h6>Front End</h6> <br>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"><br>
- <h6>UI/UX</h6> <br>
- <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
- <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white">
- <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
- <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
- <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"><br>
- <h6>Back-End</h6><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
- <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
- <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
- <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><br>
- <h6>Currently Learning</h6> <br>
- <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
- <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
- <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
- <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
- <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
- <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/><br>
-</div>
 
----
+## Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### :fire: My Stats :
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="100" />
+
+I'm Chris, a 30 year old software developer from the United States.
+
+## Professional Experiance
+
+- 💻 Lead Developer for [Alternative Funding](https://altfunding.com) - Present
+
+- 🎮 Full Stack Developer for [GamePayy](https://gamepayy.com) - 2022-2023
+
+- 👨🏾‍🏫 Teachers Assistant for [4Geeks Academy](4geeksacademy.com) - 2021-2023
+
+* Building personal projects. 👍🏾
+
+## Skills
+
+### Front End
+
+[![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+
+### Back End
+
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+
+### IDE/Code Editors
+
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Gitpod](https://img.shields.io/badge/Gitpod-FFAE33?logo=gitpod&logoColor=fff)](#)
+[![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
+
+### Operating Systems
+
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
+
+### Version Control
+
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+
+### Learning(In this order)
+
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
+
+## Github Trophies 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lupey1103&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lupey1103&layout=donut&hide=python&theme=radical)
-
