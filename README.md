@@ -13,7 +13,7 @@ I'm Chris, a 30 year old software developer from the United States.
 ## Professional Experiance
 </div>
 
-- 💻 Lead Developer for [Alternative Funding](https://altfunding.com) - 2023-Present
+- 💻 Lead Developer for [Alternative Funding](https://altfunding.com) - 2024-2025
 
 - 🎮 Full Stack Developer for [GamePayy](https://gamepayy.com) - 2022-2023
 
