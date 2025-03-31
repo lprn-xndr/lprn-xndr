@@ -78,4 +78,4 @@ I'm Chris, a 30 year old software developer from the United States.
 ## My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lupey1103&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lupey1103&layout=donut&hide=python&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lupey1103&layout=donut&theme=radical)
