@@ -73,9 +73,9 @@ I'm Chris, a 30 year old software developer from the United States.
 
 ## Github Trophies 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lprn-xndr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lupey1103&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lupey1103&layout=donut&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lprn-xndr&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lprn-xndr&layout=donut&theme=radical)
