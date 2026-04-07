@@ -81,5 +81,5 @@ I'm Chris, a 30 year old software developer from the United States.
 
 ## My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lprn-xndr&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lprn-xndr&theme=tokyonight&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lprn-xndr&layout=donut&theme=radical)
