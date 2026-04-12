@@ -45,7 +45,7 @@
 
 ## My Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-kappa-five-55.vercel.app?user=lprn-xndr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-kappa-five-55.vercel.app?user=lprn-xndr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) <!-- Not working for some reason had to input again. -->
 
 
 ![Top Langs](https://github-readme-stats-five-pi-12.vercel.app/api/top-langs/?username=lprn-xndr&layout=donut&theme=radical)
